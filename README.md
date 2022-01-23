@@ -2,7 +2,7 @@
 - 👀 I’m interested in watching movies
 - 🌱 I’m currently learning English, typing programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
 
 <!---
 suzunny/suzunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
